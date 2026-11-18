@@ -1,5 +1,6 @@
 :root{--ink:#1d2329;--mute:#6c767f;--line:#dde1e5;--accent:#d4141c;--stage:#f1f3f5;--panel:#fff}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html,body{height:100%;margin:0}
 body{font:400 15px/1.4 Archivo,system-ui,sans-serif;color:var(--ink);background:var(--panel)}
 button,select,input{font:inherit;color:inherit}
